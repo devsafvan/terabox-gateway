@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Flask-based API and CLI to extract file info and direct links from TeraBox share URLs."
 readme = "README.md"
 requires-python = ">=3.9"
-authors = [{ name = "saahiyo" }]
+authors = [{ name = "ultraloot" }]
 license = { text = "Proprietary" }
 
 
