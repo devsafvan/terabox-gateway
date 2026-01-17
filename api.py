@@ -475,7 +475,7 @@ def index():
                 "/help": "Detailed usage instructions",
                 "/health": "Health check",
             },
-            "contact": "@Saahiyo",
+            "contact": "@ultraloot23",
             "timestamp": datetime.utcnow().isoformat(),
         }
     )
@@ -701,7 +701,7 @@ def help_page():
                     "Some links may require captcha verification",
                     "Rate limiting may apply",
                 ],
-                "Contact": "@Saahiyo",
+                "Contact": "@ultraloot23",
             }
         }
     )
